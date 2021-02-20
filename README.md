@@ -1,6 +1,6 @@
 # Dailyhire App
 
-In this repository, you can find the Dailyhire Mobile Application. Dailyhire also has a Web Page and a Web Service allocated in the following repository: "https://github.com/AndreAmaralGit/Dailyhire-web-service-e-web-page". 
+In this repository, you can find the Dailyhire Mobile Application. Dailyhire also has a Web Page and a Web Service allocated in the following repository: "https://github.com/AndreAmaralGit/Dailyhire-Web-Page-and-Web-Service". 
 
 ## Installation
 
@@ -14,8 +14,6 @@ After that, you will need a phone connected to your computer or a emulator, in w
 
 ```console
 npm install
-
-cd DailyHire
 
 npm run android
 ```
